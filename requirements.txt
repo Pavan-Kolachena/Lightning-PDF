@@ -9,3 +9,4 @@ google-generativeai
 langchain
 IPython
 llama-index
+ollama
